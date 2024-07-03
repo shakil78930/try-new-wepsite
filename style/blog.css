@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+
+.head{
+    height: 400px;
+    background-color: bisque;
+    background-image: url('logo.jpg');
+    background-size: cover;
+
+}
+
+
+h1{
+    color: tomato;
+    text-decoration: underline;
+    font-size: 30px;
+
+}
+
+.blog{
+  
+    background-color: rgb(43, 195, 226);
+    border: 5px solid green;
+    margin: 15px;
+    box-shadow: 10px 10px 10px;
+    padding: 10px;
+
+}
+
+.one{
+    border: 1px solid yellow;
+}
+
